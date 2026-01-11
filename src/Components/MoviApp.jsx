@@ -64,13 +64,13 @@ const MoviApp = () => {
   return (
     <div className='p-5'>
       <div >
-        <h1 className=' text-3xl lg:text-5xl text-white text-center font-bold'>Movie House</h1>
+        <h1 className=' text-3xl lg:text-5xl text-white text-center font-bold'>Movie Explorer</h1>
         <div className='flex justify-center mt-10'>
           <div className='flex  lg:gap-10 gap-5 my-0'>
             <input type="text"
               name=""
               id=""
-              placeholder='Movi Search '
+              placeholder='Movie Search '
               className='px-2 lg:w-96 rounded-xl focus:outline-none border'
               value={searchQuery}
               onChange={handleSearchQuery}

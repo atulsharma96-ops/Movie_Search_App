@@ -64,7 +64,7 @@ const MoviApp = () => {
   return (
     <div className='p-5'>
       <div >
-        <h1 className=' text-3xl lg:text-5xl text-white text-center font-bold'>Movi House</h1>
+        <h1 className=' text-3xl lg:text-5xl text-white text-center font-bold'>Movie House</h1>
         <div className='flex justify-center mt-10'>
           <div className='flex  lg:gap-10 gap-5 my-0'>
             <input type="text"

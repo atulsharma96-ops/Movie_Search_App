@@ -85,13 +85,23 @@ https://placehold.co/300x450?text=No+Image
 
 ## 📁 Project Structure
 src/
+
 ├─ components/
+
 │ ├─ Search.jsx
+
 │ ├─ Filters.jsx
+
 │ ├─ Card.jsx
+
 │ └─ Movies.jsx
+
 ├─ data/
+
 │ └─ cardData.jsx
+
 ├─ App.jsx
+
 ├─ main.jsx
+
 └─ index.css
